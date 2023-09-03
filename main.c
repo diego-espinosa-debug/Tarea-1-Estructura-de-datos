@@ -115,7 +115,9 @@ int main(void) {
     printf("Si desea exportar libros a un archivo CSV, escriba 10\n");
     printf("Si desea terminar el programa ingrese 0");
     intruccion = scanf("%d", &intruccion);
-
+    if(intruccion < 0 || intruccion > 10){
+      printf("instrucción invalida, intente nuevamente");
+    }
     switch (intruccion) {
     case 1: // registrar libros 
 
