@@ -27,7 +27,8 @@ funcionalidades;
 
 Errores conocidos: 
 1. se necesita un doble enter para el autor y género, se cree que estos errores son debidos a caracteres residuales que quedan luego de los fgets
-2. al intentar retirar un libro que se encuentra en la base de datos el programa se cierra de manera subita, se cree que es debido a un error en cuanto a la manipulacion del libro buscado
+2. al intentar retirar un libro que se encuentra en la base de datos el programa se cierra de manera subita, se cree que es debido a un error en cuanto a la manipulacion del libro buscado3
+3. Este github corresponde al 8vo, ya que los intentos anteriores no pudimos guardarlo de manera correcta debido a diferentes situacions, como que no compila en replit pero en visual si, que compile en replit pero en visual no, que compile en un replit pero en otro replit no, que no se conecte con github, que no se ejecute como debe, gran parte del tiempo usado fue en estos problemas y por eso no pudimos hacer gran variedad de cosas en este replit (cosas como mas pruebas o que nos quedasemos cortos de tiempo, ya que madrguamos varios dias y empezamos el trabajo el marte de la semana pasada). Es debido a esto que la cantidad de commits es alarmantemente baja
 
 a mejorar:
 -Hacer la tarea con mas tiempo
