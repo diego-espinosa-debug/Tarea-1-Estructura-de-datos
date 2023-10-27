@@ -1,7 +1,7 @@
 Esta aplicación permite al usuario gestionar los libros de una libreria. Puede agregar libros y su informacion, como los son el titulo, el autor, su genero, su ISBN y su ubacion. Ademas se permite crear reservas para cada libro en specifico, para ello, necesita del nombre y autor del libro y luego el nombre de la persona que quiere reservar el libro.
 
-clonar el repositorio;
-git clone <https://github.com/diego-espinosa-debug/Tarea-1-Estructura-de-datos>
+eclonar el repositorio;
+git clon <https://github.com/diego-espinosa-debug/Tarea-1-Estructura-de-datos>
 
 gestor de tareas:
 cd <path al lugar donde se desea clonar>
@@ -11,7 +11,6 @@ gcc main.c cola.c list.c -o tarea1
 
 ejecutar aplicacion:
 ./tarea1
-
 
 funcionalidades;
 -agrega libros a la lista del libro correctamente

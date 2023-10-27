@@ -182,7 +182,7 @@ int main(void) {
       }
 
       while (buscado != NULL) {
-        if (strcmp(buscado->titulo, tituloBus) == 0 && strcmp(buscado->autor, autorBus) == 0) {
+        if (strcmp(buscado->titulo, tituloBus) == 0 &&strcmp(buscado->autor, autorBus) == 0) {
           printf("EL titulo del libro es %s\n", buscado->titulo);
           printf("EL autor del libro es %s\n", buscado->autor);
           printf("El genero del libro es %s\n", buscado->genero);
